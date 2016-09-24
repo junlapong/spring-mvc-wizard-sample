@@ -1,6 +1,6 @@
 # Spring MVC in a Wizard UI Sample
 
-[![Build Status](https://snap-ci.com/kkapelon/spring-mvc-wizard-sample/branch/master/build_image)](https://snap-ci.com/kkapelon/spring-mvc-wizard-sample/branch/master)
+[![Build Status](https://snap-ci.com/junlapong/spring-mvc-wizard-sample/branch/master/build_image)](https://snap-ci.com/junlapong/spring-mvc-wizard-sample/branch/master)
 
 ##Instructions
 
@@ -16,7 +16,7 @@ mvn package
 mvn tomcat:run
 ```
 
-....and navigate your browser to  http://localhost:8080/wizard/index.html
+....and navigate your browser to  http://localhost:9080/wizard/index.html
 
 ##To run unit tests
 
